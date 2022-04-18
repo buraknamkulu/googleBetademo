@@ -1,0 +1,56 @@
+.bkutu{
+display: flex;            
+justify-content: center;            
+align-items: center;
+    background-color: #EEEEEE;
+    color: black;
+    margin-left: 20%;
+    margin-right: 20%;
+    
+}
+
+.kkutu1 {  float: left;
+    display: inline-block;
+    height: 100px;
+    width: 200px;
+    margin-top: 2px;
+    margin-left: 350px;
+    color: black;
+background-color: #7EE5DA;
+
+}
+
+.kkutu2 { float: left;
+    display: inline-block;
+    height: 100px;
+    width: 200px;
+    margin: 2px;
+    color: black;
+background-color: #70CCC2; 
+}
+
+.kkutu3 { float:left;
+    display: inline-block;
+    height: 100px;
+    width: 200px;
+    margin: 2px;
+    color: black;
+background-color: #62B3AA;
+text-align: center;
+position: relative;
+
+}
+
+.button1 {
+    margin: 5px;
+    padding: 2px;
+   
+}
+
+.son {
+    float: left;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
